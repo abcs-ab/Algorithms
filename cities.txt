@@ -1,0 +1,15 @@
+Paris London,150 Warsaw,120 Sevilla,120
+London Sevilla,90 Vienna,150 Paris,150
+Sevilla London,90 Paris,120
+Tokyo Rome,160 Vienna,60
+Rome Tokyo,160 Warsaw,80 Monaco,170
+Monaco Rome,170 Moscow,100 Dublin,110
+Moscow Dublin,60 Monaco,100 Vienna,120
+Vienna Moscow,120 London,150 Tokyo,60
+Dublin Moscow,60 Chicago,40 Berlin,80 Monaco,110
+Chicago Dublin,40 Berlin,70
+Berlin Chicago,70 Oslo,70 Dublin,80
+Oslo Barcelona,90 Berlin,70
+Barcelona Oslo,90 Belfast,50 Warsaw,100
+Belfast Barcelona,50 Warsaw,110
+Warsaw Barcelona,100 Belfast,110 Rome,80 Paris,120
